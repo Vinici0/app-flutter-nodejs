@@ -1,6 +1,9 @@
 # Proyecto de Flutter y Node.js con Socket IO
 
-Este es un proyecto de ejemplo que utiliza Flutter y Node.js para implementar una aplicación de graficas en tiempo real. La aplicación utiliza la biblioteca Socket IO para permitir la comunicación en tiempo real entre el cliente y el servidor.
+Este es un proyecto de ejemplo que utiliza Flutter y Node.js para implementar una aplicación de graficas en tiempo real. La aplicación utiliza la biblioteca Socket IO para permitir la comunicación en tiempo real entre el cliente y el servidor.<br>
+
+Backend NodeJS👉: https://github.com/Vinici0/app-nodejs-flutter.git 
+
 
 ## Características
 
