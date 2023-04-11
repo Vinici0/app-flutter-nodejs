@@ -13,7 +13,7 @@ Backend NodeJS👉: https://github.com/Vinici0/app-nodejs-flutter.git
   <li>Utiliza la biblioteca Pie Chart para mostrar estadísticas de uso en la aplicación.</li>
   <li>Utiliza Node.js y Express para implementar el servidor de la aplicación.</li>
   <li>Utiliza Socket IO para permitir la comunicación en tiempo real entre el servidor y el cliente.</li>
-  <li>Utiliza la biblioteca UUID para generar identificadores únicos.</li>
+  <li>Utiliza la biblioteca UUID para generar identificadores únicos</li>
 </ul>
 
 ## Requisitos 
